@@ -4,7 +4,6 @@
 
 [**陌溪**](https://gitee.com/moxi159753/LearningNotes/raw/master/doc/images/qq/添加陌溪.png) 是一个从三本院校一路摸滚翻爬上来的程序员。目前就职于字节跳动的Data广告部门，是字节跳动全线产品的商业变现研发团队。这两天创建了一个 **微信公众号【[陌溪教你学编程](https://gitee.com/moxi159753/LearningNotes/raw/master/doc/images/qq/公众号2.jpg)】**，未来将会在公众号上持续性的输出很多原创小知识以及学习资源，欢迎各位小伙伴关注我，和我一起共同学习，同时我也希望各位小伙伴能够给 **LearningNotes** 项目多多 **Star** 支持，您的**点赞**就是我维护的动力！
 
-
 🔗友情链接：我的好友阿秀前段时间收集了超过1000本计算机经典书籍的PDF，包括C++、Java、Python、操作系统、计算机网络、数据库等方面的书籍都有收录，基本上你能听过的都在里面了。这是他的仓库 [CS-Books](https://github.com/forthespada/CS-Books)，大家可以去看看，以后看书不花钱不是梦了哈哈，欢迎Star⭐
 
 ## 项目介绍
@@ -53,7 +52,7 @@
 
 > 【阿里云】云服务器狂欢特惠，**2核2G5M** 轻量级应用服务器 **60** 元/年【博主目前使用】 [点我传送](https://www.aliyun.com/minisite/goods?userCode=w7aungxw)
 >
-> 【腾讯云】云产品限时秒杀，爆款 **2核4G8M** 云服务器，首年**74**元/年【博主强烈推荐】 [点我进入](https://cloud.tencent.com/act/double11?spread_hash_key=af8086eaece165d1f01cf63bf8c105e7&cps_key=4e9b8ce643afe47621493331d101dd6e)
+> 【腾讯云】云产品限时秒杀，爆款 **2核4G8M** 云服务器，首年**74**元/年【博主强烈推荐】 [点我进入](https://curl.qcloud.com/TYzPgyNC)
 
 ## 公众号文章
 
@@ -101,6 +100,11 @@
 - [如何通过宝塔安装蘑菇博客](http://www.moguit.cn/#/info?blogOid=618)
 - [什么！蘑菇博客在国庆期间仅有1人访问？](http://www.moguit.cn/#/info?blogOid=620)
 - [什么！有人在蘑菇留言区口吐芬芳？](http://www.moguit.cn/#/info?blogOid=621)
+- [低配服务器也能玩转蘑菇博客！](http://www.moguit.cn/#/info?blogOid=623)
+- [帮老家的亲戚搭建一个小程序商城](http://www.moguit.cn/#/info?blogOid=625)
+- [蘑菇群友来杭州了..](http://www.moguit.cn/#/info?blogOid=626)
+- [再见了VMware，一款更轻量级的虚拟机！](http://www.moguit.cn/#/info?blogOid=628)
+- [震惊！！！蘑菇社区竟然遭遇了DOS攻击！](http://www.moguit.cn/#/info?blogOid=651)
 
 ## Java
 
